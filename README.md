@@ -57,7 +57,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/gusti-ngurah16/gusti-ngurah16/blob/output/github-contribution-grid-snake.svg" alt="snake ani
