@@ -48,18 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/gusti-ngurah16/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusti-ngurah16&repo=project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/gusti-ngurah16/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gusti-ngurah16&repo=project-2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/gusti-ngurah16" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
