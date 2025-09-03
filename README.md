@@ -42,7 +42,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusti-ngurah16&theme=tokyonight" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusti-ngurah16&theme=tokyonight" alt="streak-stats" />
   <img src="https://github.pumbas.net/api/contributions/gusti-ngurah16?bgColour=161B22&borderRadius=20" alt="gusti-ngurah16 GitHub contributions" />
 </p>
 
