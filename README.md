@@ -18,9 +18,9 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **Cool Projects**
+- 📚 I’m studying at **SMK TI Bali Global Denpasar**
 - 🌱 I’m learning **Web Dev, Cloud, and AI**
-- 💬 Ask me about **Frontend, Backend, and APIs**
+- ⚽ My Hobby is **Playing Football, and Watch Anime**
 - ⚡ Fun fact: *Code + Coffee ☕ = Happy Me 😆*
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### Contributions
+### 📈 Contributions
 <P align="center">
   <img src="https://github.pumbas.net/api/contributions/gusti-ngurah16?bgColour=161B22&borderRadius=20" alt="gusti-ngurah16 GitHub contributions" />
 </P>
