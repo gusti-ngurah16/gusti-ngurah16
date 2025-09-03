@@ -1,7 +1,7 @@
 <!-- Profil GitHub README -->
 
 <h1 align="center">Hi 👋, I'm I Gusti Ngurah</h1>
-<h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Student</h3>
 
 <p align="center">
   <a href="https://github.com/gusti-ngurah16">
