@@ -42,7 +42,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusti-ngurah16&theme=tokyonight" alt="streak-stats" />
+   <img src="https://git.io/streak-stats/?user=gusti-ngurah16&theme=tokyonight" alt="streak-stats" />
 </p>
 
 ---
