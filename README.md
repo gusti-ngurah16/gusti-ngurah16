@@ -54,13 +54,3 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/gusti-ngurah16" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/gusti_ngurah16" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:gusti.ngurah16@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://gusti-ngurah16.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-</p>
-
----
-
