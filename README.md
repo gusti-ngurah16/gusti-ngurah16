@@ -48,7 +48,7 @@
 
 ---
 
-<p alight="center">
+<p align="center">
   <a href="https://github.com/gusti-ngurah16">
     <img src="https://komarev.com/ghpvc/?username=gusti-ngurah16&label=Profile%20views&color=0e75b6&style=flat" alt="gusti-ngurah16" />
   </a>
